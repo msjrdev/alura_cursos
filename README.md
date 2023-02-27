@@ -3,10 +3,8 @@
 Repositório com o conteúdo dos cursos da alura que fiz ou estou fazendo.
 
 ---
-
-## 🚀 Cursos
-
-1.  [React: Desenvolvendo com JavaScript](https://github.com/msjrdev/organo)
+## Cursos
+1.  [React: Desenvolvendo com JavaScript](./1-React-com-JavaScript)
 
 ## ⚙ Tecnologias utilizadas
 
